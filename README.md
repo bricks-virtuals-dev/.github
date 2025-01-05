@@ -74,5 +74,4 @@ We welcome contributions from the community.
 - Email: karl@gobricks.io
 - Twitter: [@bricks_virtuals](https://x.com/bricks_virtuals)
 - Website: [gobricks.io](https://gobricks.io)
-- Telegram: [t.me/bricks_virtuals](https://t.me/bricks_virtuals)
 - Virtuals-Page: [https://app.virtuals.io/prototypes/0x6aF50C8D5Ed1a39Aa7187f17DAEA0DbFF49E8a1A] (https://app.virtuals.io/prototypes/0x6aF50C8D5Ed1a39Aa7187f17DAEA0DbFF49E8a1A)
